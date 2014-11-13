@@ -1,0 +1,24 @@
+{
+  "name": "BookIt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MiamiCoder.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.9.0",
+    "connect-mongo": "^0.4.1",
+    "express": "^4.9.7",
+    "express-session": "^1.9.0",
+    "mongodb": "^1.4.19",
+    "mongoose": "^3.8.17",
+    "mongoose-session": "0.0.2",
+    "node-uuid": "^1.4.1"
+  },
+  "devDependencies": {
+    "should": "^4.1.0"
+  }
+}
